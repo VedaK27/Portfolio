@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+
+.card-3d {
+  transform-style: preserve-3d;
+  transition: transform 0.7s;
+}
+.card-3d .card-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.card-3d .card-back {
+  transform: rotateY(180deg);
+}
+.group:hover .card-3d {
+  transform: rotateY(180deg);
+}
