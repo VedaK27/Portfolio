@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vedaportfolio/static/css/main.5e9397dd.css",
+    "main.js": "/vedaportfolio/static/js/main.5f212285.js",
+    "static/js/453.41222898.chunk.js": "/vedaportfolio/static/js/453.41222898.chunk.js",
+    "static/media/profile.jpg": "/vedaportfolio/static/media/profile.bd95d55690a3c910307d.jpg",
+    "static/media/resume.pdf": "/vedaportfolio/static/media/resume.9456e90f3c0d23a16770.pdf",
+    "index.html": "/vedaportfolio/index.html",
+    "main.5e9397dd.css.map": "/vedaportfolio/static/css/main.5e9397dd.css.map",
+    "main.5f212285.js.map": "/vedaportfolio/static/js/main.5f212285.js.map",
+    "453.41222898.chunk.js.map": "/vedaportfolio/static/js/453.41222898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9397dd.css",
+    "static/js/main.5f212285.js"
+  ]
+}
