@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a Computer Enginee
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the live site](https://vedak27.github.io/vedaportfolio)
+👉 [Click here to visit the live site](https://vedak27.github.io/Portfolio/)
 
 ---
 
