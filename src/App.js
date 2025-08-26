@@ -3,8 +3,9 @@ import {
   Github, Linkedin, Phone, Mail, Download,
   ExternalLink, Code, Database, Cpu, Globe, GitBranch
 } from 'lucide-react';
-import profile from '../src/assets/profile.jpg' ;
-import resume from '../src/assets/resume.pdf' ;
+const profile = process.env.PUBLIC_URL + '/assets/profile.jpg';
+const resume = process.env.PUBLIC_URL + '/assets/resume.pdf';
+
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('about');
 

@@ -2,7 +2,7 @@
   "name": "vedaportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VedaK27.github.io/vedaportfolio",
+  "homepage": "https://VedaK27.github.io/Portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
