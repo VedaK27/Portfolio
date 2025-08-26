@@ -4,7 +4,7 @@ import {
   ExternalLink, Code, Database, Cpu, Globe, GitBranch
 } from 'lucide-react';
 const profile = process.env.PUBLIC_URL + '/assets/profile.jpg';
-const resume = process.env.PUBLIC_URL + '/assets/resume.pdf';
+const resume = process.env.PUBLIC_URL + '/assets/Resume_1.pdf';
 
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('about');
